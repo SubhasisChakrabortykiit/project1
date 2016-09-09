@@ -1,0 +1,35 @@
+main {
+	margin: auto;
+	font-size: 0;
+	width: 800px;
+	height: 500px;
+}
+.upper {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+}
+.box1 {
+	
+	background: green;
+}
+.box2 {
+	background: skyblue;
+	
+} 
+.lower {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+}
+.box3 {
+	background: grey;
+}
+.box4 {
+
+	background: black;
+}
+.box5 {
+	background: orange;
+}
